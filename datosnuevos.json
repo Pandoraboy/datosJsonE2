@@ -1,0 +1,93 @@
+[
+  {
+    "Edad": 35,
+    "Experiencia_Anios": 10,
+    "Horas_Entrenamiento_Mensual": 12,
+    "Nivel_Educativo_Ordinal": 2.0,
+    "Satisfaccion_Laboral_Ordinal": 3.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": false,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": true,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 1
+  },
+  {
+    "Edad": 28,
+    "Experiencia_Anios": 3,
+    "Horas_Entrenamiento_Mensual": 8,
+    "Nivel_Educativo_Ordinal": 1.0,
+    "Satisfaccion_Laboral_Ordinal": 2.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": true,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": false,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 0
+  },
+  {
+    "Edad": 40,
+    "Experiencia_Anios": 15,
+    "Horas_Entrenamiento_Mensual": 10,
+    "Nivel_Educativo_Ordinal": 3.0,
+    "Satisfaccion_Laboral_Ordinal": 4.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": false,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": true,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 1
+  },
+  {
+    "Edad": 25,
+    "Experiencia_Anios": 2,
+    "Horas_Entrenamiento_Mensual": 20,
+    "Nivel_Educativo_Ordinal": 1.0,
+    "Satisfaccion_Laboral_Ordinal": 2.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": true,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": false,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 0
+  },
+  {
+    "Edad": 50,
+    "Experiencia_Anios": 25,
+    "Horas_Entrenamiento_Mensual": 5,
+    "Nivel_Educativo_Ordinal": 2.0,
+    "Satisfaccion_Laboral_Ordinal": 3.0,
+    "Depto_Finanzas": true,
+    "Depto_Marketing": false,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": false,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 1
+  },
+  {
+    "Edad": 33,
+    "Experiencia_Anios": 8,
+    "Horas_Entrenamiento_Mensual": 15,
+    "Nivel_Educativo_Ordinal": 1.0,
+    "Satisfaccion_Laboral_Ordinal": 3.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": false,
+    "Depto_Recursos Humanos": true,
+    "Depto_TI": false,
+    "Depto_Ventas": false,
+    "Remoto_Binario": 0
+  },
+  {
+    "Edad": 29,
+    "Experiencia_Anios": 5,
+    "Horas_Entrenamiento_Mensual": 18,
+    "Nivel_Educativo_Ordinal": 2.0,
+    "Satisfaccion_Laboral_Ordinal": 4.0,
+    "Depto_Finanzas": false,
+    "Depto_Marketing": false,
+    "Depto_Recursos Humanos": false,
+    "Depto_TI": false,
+    "Depto_Ventas": true,
+    "Remoto_Binario": 1
+  }
+]
